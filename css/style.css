@@ -1,1 +1,21 @@
+.class-jumbo {
+    height: 470px;
+}
 
+.class-nav {
+    padding: 30px;
+    border-radius: 0.2rem;
+}
+
+.class-name {
+    text-align: center;
+    align-items: end;
+    font-size: 80px;
+    font-weight: bold;
+    color:darkcyan;
+}
+
+.class-name2 {
+    font-size: 30px;
+    font-weight: bold;
+}
