@@ -12,7 +12,7 @@
     align-items: end;
     font-size: 80px;
     font-weight: bold;
-    color:darkcyan;
+    color:rgb(33, 40, 82);
 }
 
 .class-name2 {
@@ -21,7 +21,6 @@
 }
 
 .class-image1 {
-    display: flex;
     height: 500px;
     background-size: cover;
 }
@@ -33,9 +32,17 @@
 .class-work {
     display: flex;
     flex-direction: column;
-    padding: 20px;
 }
 
-/* .class-image2 {
-    background-image: inherit;
-} */
+.class-image2 {
+    height: 225px;
+}
+
+.parent-work {
+    display: flex;
+    justify-content: center;
+}
+
+#work {
+    width: 90%;
+}
