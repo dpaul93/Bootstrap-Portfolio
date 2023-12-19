@@ -7,3 +7,5 @@ With the use of bootstrap I was able to use the out of the box CSS provided and 
 ![CSS Screenshot](image-1.png)
 ![HTML Screen shot](image-2.png)
 
+Live page = https://dpaul93.github.io/Bootstrap-Portfolio/
+GitHub repo = https://github.com/dpaul93/Bootstrap-Portfolio
